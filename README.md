@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Sahil
 
-<!--
-**SahilTiwariDev/SahilTiwariDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught developer and content creator passionate about building thoughtful digital experiences.
 
-Here are some ideas to get you started:
+I love turning ideas into useful products and sharing what I learn — through both code and content.  
+Always learning. Always creating. Always evolving 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do
+
+- 📱 Build digital experiences with creativity & intent  
+- 🎬 Share my learning journey through content  
+- 🧠 Continuously improve through side projects & experiments
+
+---
+
+## 🧠 Currently Exploring
+
+- Full-stack development  
+- Building useful tools & micro-products  
+- Storytelling through visuals and content
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 [sahiltiwari.contactme@gmail.com](mailto:sahiltiwari.contactme@gmail.com)  
+- 📸 [Instagram @sahiltiwariofficial](https://instagram.com/sahiltiwariofficial)
